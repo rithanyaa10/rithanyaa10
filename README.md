@@ -3,4 +3,4 @@
 -  I’m currently learning computer science
 -  How to reach me rithanyaa.2453037@srec.ac.in
   
-<img src="https://media1.tenor.com/m/YUT6OekjwxQAAAAd/shoot-computer.gif">
+<img src="https://media1.tenor.com/m/YUT6OekjwxQAAAAd/shoot-computer.gif"  >
