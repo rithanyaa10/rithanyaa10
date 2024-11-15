@@ -1,5 +1,5 @@
 -  Hi, I’m @rithanyaa10
--  I’m interested in Learning and Exploring new things
+-  I’m interested in Learning and Exploring New Things
 -  I’m currently learning Computer Science
 -  How to reach me rithanyaa.2453037@srec.ac.in
 <div align="center"> 
