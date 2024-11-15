@@ -1,4 +1,5 @@
 -  Hi, I’m @rithanyaa10
+-  Welcome to my GitHub, where I share my journey of learning and creating open source projects.
 -  I’m interested in Learning and Exploring New Things
 -  I’m currently learning Computer Science
 -  How to reach me rithanyaa.2453037@srec.ac.in
